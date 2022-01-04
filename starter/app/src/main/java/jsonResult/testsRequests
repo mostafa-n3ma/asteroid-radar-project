@@ -1,0 +1,4 @@
+apiKey="9N3E406qESrXOIQC6Wz2jWdDJxUjhZM8ekTXTePX"
+
+test request1:
+https://api.nasa.gov/neo/rest/v1/feed?start_date=2021-12-22&end_date=2021-12-29&api_key=9N3E406qESrXOIQC6Wz2jWdDJxUjhZM8ekTXTePX
